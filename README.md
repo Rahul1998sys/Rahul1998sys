@@ -1,7 +1,7 @@
 ### Hi there, I'm Rahul 👋  
 🔹 A Passionate Java Backend Developer  
 🔹 Skilled in Java, JavaScript, and Web Technologies  
-🔹 Open-source enthusiast 🚀  
+🔹 Open-source enthusiast 🚀 
 
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul1998sys&show_icons=true&theme=tokyonight)  
 
