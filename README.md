@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Build Status](https://img.shields.io/github/workflow/status/Rahul1998sys/Chat-Server/CI)  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rahul1998sys&style=for-the-badge)
-![Quote](https://medium.com/better-programming/101-funny-programmer-quotes-76c7f335b92d)
+![Quote](https://medium.com/better-programming/101-funny-programmer-quotes-76c7f335b92d?style=for-the-badge)
 
 
 <h1 align="center">Rahul Saxena</h1>
