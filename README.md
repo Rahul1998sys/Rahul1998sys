@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1 align="center">Rahul Saxena</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-saxena-b25b811b2/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/rahul-saxena-b25b811b2/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href=https://x.com/Saxen68846Rahul?t=FFWk-Soubr0Y7FbyJOButQ&s=09"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"></a>
 </p>
 
