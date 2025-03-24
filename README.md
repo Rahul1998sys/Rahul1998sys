@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Java-based projects**  
 - 🌱 I’m learning **React.js, Node.js, **  
 - 💬 Ask me about **Java, APIs, and System Design**  
-- 📫 Connect with me on [LinkedIn] target= "_blank" (https://www.linkedin.com/in/rahul-saxena-b25b811b2/)  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-saxena-b25b811b2/)  
 
 ---
 
