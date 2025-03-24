@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ![GitHub stars](https://img.shields.io/github/stars/Rahul1998sys?style=social)  
 ![Build Status](https://img.shields.io/github/workflow/status/Rahul1998sys/Chat-Server/CI)  
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Rahul1998sys&style=for-the-badge)
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 <h1 align="center">Rahul Saxena</h1>
 
