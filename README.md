@@ -26,16 +26,15 @@ Here are some ideas to get you started:
 <h1 align="center">Rahul Saxena</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://x.com/your-profile"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"></a>
-  <a href="https://ko-fi.com/your-profile"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ff5f5f?style=for-the-badge&logo=ko-fi"></a>
+  <a href="https://www.linkedin.com/in/rahul-saxena-b25b811b2/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href=https://x.com/Saxen68846Rahul?t=FFWk-Soubr0Y7FbyJOButQ&s=09"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Views-1.5M-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Stars-15K-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Follow-3.8K-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Visitors-250.1K-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Views-1.2K-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Stars-2K-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Follow-95-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Visitors-1K-purple?style=for-the-badge">
 </p>
 
 ---
