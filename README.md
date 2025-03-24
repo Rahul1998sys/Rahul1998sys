@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Anything
 - 📫 How to reach me: LinkedIn, Twitter(X).
+
+![GitHub followers](https://img.shields.io/github/followers/Rahul1998sys?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/Rahul1998sys?style=social)  
+![Build Status](https://img.shields.io/github/workflow/status/Rahul1998sys/Chat-Server/CI)  
