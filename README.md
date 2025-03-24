@@ -21,3 +21,42 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Rahul1998sys?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/Rahul1998sys?style=social)  
 ![Build Status](https://img.shields.io/github/workflow/status/Rahul1998sys/Chat-Server/CI)  
+
+
+<h1 align="center">Jonah Lawrence</h1>
+
+<p align="center">
+  <a href="https://youtube.com/channel/your-channel"><img src="https://img.shields.io/badge/Subscribe-8.2K-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://x.com/your-profile"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"></a>
+  <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord"></a>
+  <a href="https://dev.to/your-profile"><img src="https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=dev.to"></a>
+  <a href="https://ko-fi.com/your-profile"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ff5f5f?style=for-the-badge&logo=ko-fi"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Views-1.5M-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Stars-15K-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Follow-3.8K-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Visitors-250.1K-purple?style=for-the-badge">
+</p>
+
+---
+
+## 👨‍💻 **About Me**  
+🔹 **Backend Developer** | 🔹 **Java & Web Enthusiast** | 🔹 **Open Source Contributor**  
+
+- 🔭 I’m currently working on **Java-based projects**  
+- 🌱 I’m learning **React.js, Node.js, **  
+- 💬 Ask me about **Java, APIs, and System Design**  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-saxena-b25b811b2/)  
+
+---
+
+## 🚀 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul1998sys&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul1998sys&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul1998sys&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
