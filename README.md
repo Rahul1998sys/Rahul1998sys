@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ## 🚀 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul1998sys&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Rahul1998sys&theme=radical%22%20alt=%22GitHub%20Streak">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Rahul1998sys&theme=radical" alt= "GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul1998sys&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
